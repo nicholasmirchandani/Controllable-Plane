@@ -5,7 +5,7 @@ This one is actually quite a bit simpler than the other visualizations I've done
 
 Dependencies: GLFW, GLEW, glm, stb_image 
 
-Video: Coming soon
+Video: https://www.youtube.com/watch?v=jA1oj_MqA8Y
 
 #Controls
 
