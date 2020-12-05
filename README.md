@@ -7,7 +7,7 @@ Dependencies: GLFW, GLEW, glm, stb_image
 
 Video: https://www.youtube.com/watch?v=jA1oj_MqA8Y  
 
-#Controls  
+# Controls  
 
 1/2/3: Swaps between wireframe, solid, and points rendering.  
 Up/Down: Fades between the two images  
